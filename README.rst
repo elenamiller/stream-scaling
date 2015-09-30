@@ -23,6 +23,8 @@ binary will be left behind afterwards.
 Note that the program is only expected to work on systems
 using gcc 4.2 or later, as the OpenMP libraries are required.
 
+Sample projects can be seen at http://www.alouetteconstruction.com/
+
 Sample result
 =============
 
@@ -86,7 +88,7 @@ to accelerate running with low core counts.  Memory is 4 X 2GB DDR-1600::
 
     2010-09-19 21:41:46 (373 KB/s) - `stream.c' saved [11918/11918]
 
-    Sample projects can be seen at http://www.alouetteconstruction.com/
+    
     === Testing up to 8 cores ===
 
     -------------------------------------------------------------
