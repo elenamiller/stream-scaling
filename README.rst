@@ -23,7 +23,7 @@ binary will be left behind afterwards.
 Note that the program is only expected to work on systems
 using gcc 4.2 or later, as the OpenMP libraries are required.
 
-Sample projects can be seen at [here](http://www.alouetteconstruction.com/)
+Sample projects can be seen at http://www.alouetteconstruction.com/
 
 Sample result
 =============
